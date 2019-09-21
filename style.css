@@ -1,0 +1,40 @@
+header {
+	background-color: #0077FF;
+}
+
+header:hover {
+	background-color: #0099FF;
+}
+
+body {
+	text-align: center ;
+	margin:0;
+	background: rgb(240, 240, 240);
+}
+
+body:hover {
+	text-align: right ;
+	margin:0;
+	background: rgb(255, 255, 255);
+}
+
+footer {
+	background-color: pink ;
+}
+
+.button-main {
+	color: white;
+  background: #6772e5;
+  box-shadow: 0 4px 6px rgba(50,50,93,.11);
+  border-radius: 4px;
+  padding: 15px 20px;
+}
+
+.card-centered {
+	text-align: center;
+}
+
+
+.typeform-centered * {
+	margin: 0 auto;
+}
